@@ -1,3 +1,3 @@
-``` Readme de prueba ```
+# Prueba de GIT
 
 Prueba de git
